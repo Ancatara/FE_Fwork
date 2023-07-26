@@ -1,0 +1,11 @@
+.carousel .thumbs-wrapper{
+    display: none;
+}
+.session-landing{
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+.carousel-status{
+    display: none;
+}
